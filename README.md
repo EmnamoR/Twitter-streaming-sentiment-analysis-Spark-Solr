@@ -1,4 +1,6 @@
-# Twitter streaming with spark streaming + sentiment-analysis + Solr
+## Tweets streaming with spark streaming
+## sentiment-analysis
+## Solr
 
 
 get The latest Tweets  with spark streaming
@@ -7,4 +9,4 @@ language detection
 index data into solr
 
 
-# change solr config in application.conf
+## change solr config in application.conf
